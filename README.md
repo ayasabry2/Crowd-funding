@@ -7,4 +7,22 @@ Crowd-Funding Web App is a web-based platform that allows users to create fundra
 ✅ Create, manage, and delete fundraising campaigns
 ✅ Search for projects by date
 ✅ Interact with campaigns (donations, comments)
+🛠️ Tech Stack
+📌 Frontend (React.js)
+React.js (using TypeScript)
+
+React Router
+
+Axios for API requests
+
+ CSS & Bootstrap for styling
+
+📌 Backend (Django REST API)
+Django REST Framework for API development
+
+SQLite as the database
+
+JWT authentication
+
+CORS support for frontend-backend interaction
 
