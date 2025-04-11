@@ -1,1 +1,0 @@
-# Crowd-funding-python
